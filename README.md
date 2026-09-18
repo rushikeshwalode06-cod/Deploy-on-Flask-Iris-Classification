@@ -17,13 +17,13 @@ A Machine Learning web application that predicts the species of an Iris flower b
 
 ## 🛠️ Tech Stack
 
-- Python
-- Flask
-- Scikit-learn
-- Pandas
-- NumPy
-- HTML
-- Pickle
+- 🐍 Python  
+- 🚀 Flask  
+- 🤖 Scikit-learn  
+- 🐼 Pandas  
+- 🔢 NumPy  
+- 🌐 HTML  
+- 💾 Pickle
 
 ## 🎯 Future Improvements
 
@@ -34,7 +34,7 @@ A Machine Learning web application that predicts the species of an Iris flower b
 
 ![ml](https://github.com/rushikeshwalode06-cod/Deploy-on-Flask-Iris-Classification/blob/main/clasificstion%20ss.png?raw=true)
 
-## Conclusion 
+## 🎯 Conclusion 
 
 This project demonstrates the successful development and deployment of an Iris Flower Classification model using Machine Learning and Flask. It highlights the complete workflow, from data preprocessing and model training to building a web interface for real-time predictions. The project provided valuable hands-on experience in integrating machine learning models with web applications and serves as a strong foundation for deploying more advanced AI solutions in the future.
 
