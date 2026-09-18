@@ -5,6 +5,8 @@ Built and deployed an Iris Flower Classification web application using Flask and
 
 A Machine Learning web application that predicts the species of an Iris flower based on user-provided measurements. The application is built using **Flask** and a trained **Scikit-learn** model, providing real-time predictions through a simple and interactive web interface.
 
+![ml](https://github.com/rushikeshwalode06-cod/Deploy-on-Flask-Iris-Classification/blob/main/Iris_Flower_deploy_Flask_image.png?raw=true)
+
 ## 🚀 Features
 
 - Predicts Iris flower species
